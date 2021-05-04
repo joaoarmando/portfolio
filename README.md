@@ -14,6 +14,11 @@ Veja uma demostração do app [clique aqui](https://youtu.be/nwaUMpdDMLE) para v
 
 
 
+
+
+
+
+
 [Newster]("https://github.com/joaoarmando/newster")
 
 Newster foi meu segundo app desenvolvido em Flutter. 

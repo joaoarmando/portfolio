@@ -2,6 +2,18 @@
 
 Aqui você encontrará alguns dos projetos que já desenvolvi.
 
+![Coursei](https://github.com/joaoarmando/coursei")
+Coursei foi meu primeiro App desenvolvido em Flutter. O app esteve disponível na Google Play entre dezembro de 2019 - Fevereiro de 2021, quando eu decidir remover o app da Google Play.
+
+Coursei agrega em um único lugar diversos cursos gratuitos da plataforma Udemy. A ideia é simples, permitir que o usuário encontre cursos gratuitos de diferentes plataformas em um único App.
+
+No backend deste projeto foi utilizado o Parse Server.
+Você pode encontrar o código fonte do app ![aqui]("https://github.com/joaoarmando/coursei")
+![](https://user-images.githubusercontent.com/28633653/116958026-b3a1ba00-ac6f-11eb-86a5-de678dd528a1.mp4)
+
+
+
+
 
 
 ![Newster]("https://github.com/joaoarmando/newster")

@@ -8,7 +8,7 @@ Aqui você encontrará alguns dos projetos que já desenvolvi.
 Coursei agrega em um único lugar diversos cursos gratuitos da plataforma Udemy. A ideia é simples, permitir que o usuário encontre cursos gratuitos de diferentes plataformas em um único App.
 
 No backend deste projeto foi utilizado o Parse Server.
-Veja uma demostração do app [clique aqui](https://youtu.be/nwaUMpdDMLE) para ver uma demonstração do app no Youtube.
+Veja uma demostração do app [clicando aqui](https://youtu.be/nwaUMpdDMLE).
 Você pode encontrar o código fonte do app [aqui](https://github.com/joaoarmando/coursei)
 
 
@@ -23,7 +23,7 @@ Você pode encontrar o código fonte do app [aqui](https://github.com/joaoarmand
 
 Newster é um app de notícias desenvolvido em Flutter, O app agrega notícias de diferentes países e também permite ao usuário buscar por termos específicos.
 No backend foi utilizado o Parse server como BaaS.
-Veja uma demostração do app [clique aqui](https://youtu.be/-bH900E97qA) para ver uma demonstração do app no Youtube.
+Veja uma demostração do app [clicando aqui](https://youtu.be/-bH900E97qA).
 Você pode conferir o código fonte do app [aqui](https://github.com/joaoarmando/newster)
 
 

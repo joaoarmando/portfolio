@@ -2,7 +2,7 @@
 
 Aqui você encontrará alguns dos projetos que já desenvolvi.
 
-#[Coursei](https://github.com/joaoarmando/coursei")
+[Coursei](https://github.com/joaoarmando/coursei")
  foi meu primeiro App desenvolvido em Flutter. O app esteve disponível na Google Play entre dezembro de 2019 - Fevereiro de 2021, quando eu decidir remover o app da Google Play.
 
 Coursei agrega em um único lugar diversos cursos gratuitos da plataforma Udemy. A ideia é simples, permitir que o usuário encontre cursos gratuitos de diferentes plataformas em um único App.
@@ -19,7 +19,7 @@ Você pode encontrar o código fonte do app [aqui](https://github.com/joaoarmand
 
 
 
-[Newster]("https://github.com/joaoarmando/newster") foi meu segundo app desenvolvido em Flutter. 
+[Newster](https://github.com/joaoarmando/newster) foi meu segundo app desenvolvido em Flutter. 
 
 Newster é um app de notícias desenvolvido em Flutter, O app agrega notícias de diferentes países e também permite ao usuário buscar por termos específicos.
 No backend foi utilizado o Parse server como BaaS.

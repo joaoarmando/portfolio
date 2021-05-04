@@ -9,7 +9,10 @@ Coursei agrega em um único lugar diversos cursos gratuitos da plataforma Udemy.
 
 No backend deste projeto foi utilizado o Parse Server.
 Você pode encontrar o código fonte do app ![aqui]("https://github.com/joaoarmando/coursei")
-![](https://user-images.githubusercontent.com/28633653/116958026-b3a1ba00-ac6f-11eb-86a5-de678dd528a1.mp4)
+Veja uma demostração do app ![clique aqui](https://youtu.be/nwaUMpdDMLE) para ver uma demonstração do app no Youtube.
+![Uploading ezgif.com-video-to-gif-2.gif…](https://youtu.be/nwaUMpdDMLE)
+
+
 
 
 
